@@ -1,3 +1,4 @@
 # Frontend Mentor - Social media dashboard with theme switcher
-![dashboard-dark](https://github.com/Joeybur/social-media-dashboard/assets/144486623/d3c44c0a-f3cf-416b-ae56-b6fc0991419a)
-![dashboard-light](https://github.com/Joeybur/social-media-dashboard/assets/144486623/adb7ae7b-65de-4ba3-b8b8-bf2f63656260)
+
+![dashboard-dark](https://github.com/Joeybur/social-media-dashboard/assets/144486623/c3ff716c-f30e-4513-9f20-0f386d0ac343)
+![dashboard-light](https://github.com/Joeybur/social-media-dashboard/assets/144486623/4d0bd932-d004-4f6d-97e1-ae63b13a8f21)
